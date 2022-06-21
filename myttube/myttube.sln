@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1913
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myttube", "myttube\myttube.csproj", "{BF0E7FC0-E988-44E2-97BF-EB1F829D17DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mytube", "myttube\mytube.csproj", "{BF0E7FC0-E988-44E2-97BF-EB1F829D17DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
